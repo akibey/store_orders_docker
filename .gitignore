@@ -2,3 +2,4 @@ logs/*
 *.csv
 env/
 .token
+data_source/__pycache__/
