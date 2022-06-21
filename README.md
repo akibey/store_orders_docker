@@ -73,4 +73,4 @@ product_id -> products(id)
 
 ## Graph view of DAG:
 
-![Graph view][dag.png]
+<img src="dag.png" width="800" />![Graph view][dag.png]
