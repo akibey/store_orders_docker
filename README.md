@@ -74,3 +74,8 @@ product_id -> products(id)
 ## Graph view of DAG:
 
 <img src="dag.png" width="800" />
+
+
+## To launch:
+
+run the script start_docker.sh .
